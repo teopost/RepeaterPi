@@ -1,0 +1,11 @@
+eseguo RX.py
+1
+rilevato audio... 
+attendo il silenzio...
+file WAV creato 21:59:27
+apro il file creato
+riproduco registrazione
+riproduzione completata
+opened beep file
+eseguo beep
+
